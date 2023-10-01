@@ -239,7 +239,7 @@ arXiv:1804.02767, 2018.
 tracking by means of deep reinforcement learning and an expert demonstrator. In
 Proceedings of the IEEE International Conference on Computer Vision Workshops,
 pages 0–0, 2019
-- 2019 : Mingxin Jiang, Tao Hai, Zhigeng Pan, Haiyan Wang, Yinjie Jia, and Chao Deng. Multi-
+- Mingxin Jiang, Tao Hai, Zhigeng Pan, Haiyan Wang, Yinjie Jia, and Chao Deng. Multi-
 agent deep reinforcement learning for multi-object tracker. IEEE Access, 7:32400–
 32407, 2019
 
@@ -563,46 +563,62 @@ inforcement learning. IEEE Transactions on Neural Networks and Learning Systems,
 2020.
 
 ## Landmark Detection
-- 2010 : Antonio Criminisi, Jamie Shotton, Duncan Robertson, and Ender Konukoglu. Regres-
+2010 :
+- Antonio Criminisi, Jamie Shotton, Duncan Robertson, and Ender Konukoglu. Regres-
 sion forests for efficient anatomy detection and localization in ct studies. In Inter-
 national MICCAI Workshop on Medical Computer Vision, pages 106–117. Springer,
 2010.
-- 2014 : Romane Gauriau, R´emi Cuingnet, David Lesage, and Isabelle Bloch. Multi-organ
+
+2013 :
+- Tony Lindeberg. Scale-space theory in computer vision, volume 256. Springer Science
+& Business Media, 2013.
+
+2014 :
+- Romane Gauriau, R´emi Cuingnet, David Lesage, and Isabelle Bloch. Multi-organ
 localization combining global-to-local regression and confidence maps. In International
 Conference on Medical Image Computing and Computer-Assisted Intervention, pages
 337–344. Springer, 2014.
-- 2017 : Florin-Cristian Ghesu, Bogdan Georgescu, Yefeng Zheng, Sasa Grbic, Andreas Maier,
-Joachim Hornegger, and Dorin Comaniciu. Multi-scale deep reinforcement learning for
-real-time 3d-landmark detection in ct scans. IEEE transactions on pattern analysis
-and machine intelligence, 41(1):176–189, 2017.
-- 2013 : Tony Lindeberg. Scale-space theory in computer vision, volume 256. Springer Science
-& Business Media, 2013.
-- 2016 : Florin C Ghesu, Edward Krubasik, Bogdan Georgescu, Vivek Singh, Yefeng Zheng,
+
+2015 :
+- Yefeng Zheng, David Liu, Bogdan Georgescu, Hien Nguyen, and Dorin Comaniciu.
+3d deep learning for efficient and robust landmark detection in volumetric data. In
+International Conference on Medical Image Computing and Computer-Assisted Inter-
+vention, pages 565–572. Springer, 2015.
+- Justin Girard and M Reza Emami. Concurrent markov decision processes for robot
+team learning. Engineering applications of artificial intelligence, 39:223–234, 2015.
+
+
+2016 :
+- Florin C Ghesu, Edward Krubasik, Bogdan Georgescu, Vivek Singh, Yefeng Zheng,
 Joachim Hornegger, and Dorin Comaniciu. Marginal space deep learning: efficient
 architecture for volumetric image parsing. IEEE transactions on medical imaging,
 35(5):1217–1228, 2016.
-- 2015 : Yefeng Zheng, David Liu, Bogdan Georgescu, Hien Nguyen, and Dorin Comaniciu.
-3d deep learning for efficient and robust landmark detection in volumetric data. In
-International Conference on Medical Image Computing and Computer-Assisted Inter-
-vention, pages 565–572. Springer, 2015
-- 2019 : Amir Alansary, Ozan Oktay, Yuanwei Li, Loic Le Folgoc, Benjamin Hou, Ghislain
-Vaillant, Konstantinos Kamnitsas, Athanasios Vlontzos, Ben Glocker, Bernhard Kainz,
-et al. Evaluating reinforcement learning agents for anatomical landmark detection.
-Medical image analysis, 53:156–164, 2019
-- 2019 : Walid Abdullah Al and Il Dong Yun. Partial policy-based reinforcement learning for
-anatomical landmark localization in 3d medical images. IEEE transactions on medical
-imaging, 2019
-- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+- Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
 Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
 for deep reinforcement learning. In International conference on machine learning, pages
 1928–1937, 2016.
-- 2019 : Athanasios Vlontzos, Amir Alansary, Konstantinos Kamnitsas, Daniel Rueckert, and
+
+2017 :
+- Florin-Cristian Ghesu, Bogdan Georgescu, Yefeng Zheng, Sasa Grbic, Andreas Maier,
+Joachim Hornegger, and Dorin Comaniciu. Multi-scale deep reinforcement learning for
+real-time 3d-landmark detection in ct scans. IEEE transactions on pattern analysis
+and machine intelligence, 41(1):176–189, 2017.
+
+2019 :
+- Amir Alansary, Ozan Oktay, Yuanwei Li, Loic Le Folgoc, Benjamin Hou, Ghislain
+Vaillant, Konstantinos Kamnitsas, Athanasios Vlontzos, Ben Glocker, Bernhard Kainz,
+et al. Evaluating reinforcement learning agents for anatomical landmark detection.
+Medical image analysis, 53:156–164, 2019
+- Walid Abdullah Al and Il Dong Yun. Partial policy-based reinforcement learning for
+anatomical landmark localization in 3d medical images. IEEE transactions on medical
+imaging, 2019
+- Athanasios Vlontzos, Amir Alansary, Konstantinos Kamnitsas, Daniel Rueckert, and
 Bernhard Kainz. Multiple landmark detection using multi-agent reinforcement learn-
 ing. In International Conference on Medical Image Computing and Computer-Assisted
 Intervention, pages 262–270. Springer, 2019.
-- 2015 : Justin Girard and M Reza Emami. Concurrent markov decision processes for robot
-team learning. Engineering applications of artificial intelligence, 39:223–234, 2015.
-- 2020 : Arjit Jain, Alexander Powers, and Hans J Johnson. Robust automatic multiple land-
+
+2020 :
+- Arjit Jain, Alexander Powers, and Hans J Johnson. Robust automatic multiple land-
 mark detection. In 2020 IEEE 17th International Symposium on Biomedical Imaging
 (ISBI), pages 1178–1182. IEEE, 2020.
 
