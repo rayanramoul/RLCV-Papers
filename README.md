@@ -180,46 +180,124 @@ agent deep reinforcement learning for multi-object tracker. IEEE Access, 7:32400
 arXiv:1804.02767, 2018.
 
 ## Object Detection
-- 109
-- 108
-- 309
-- 225
-- 332
-- 43
-- 25
-- 340
-- 251
-- 170
-- 72
-- 320
-- 246
-- 133
-- 386
-- 295
-- 15
-- 354
-- 216
-- 367
-- 275
-- 231
-- 102
+- 2014 : Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierar-
+chies for accurate object detection and semantic segmentation. In Proceedings of the
+IEEE conference on computer vision and pattern recognition, pages 580–587, 2014.
+- 2015 : Ross Girshick. Fast r-cnn. In Proceedings of the IEEE international conference on
+computer vision, pages 1440–1448, 2015.
+- 2015 : Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-
+time object detection with region proposal networks. In Advances in neural information
+processing systems, pages 91–99, 2015
+- 2017 :  Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Doll´ar. Focal loss
+for dense object detection. In Proceedings of the IEEE international conference on
+computer vision, pages 2980–2988, 2017.
+- 2017 : Mohammad Javad Shafiee, Brendan Chywl, Francis Li, and Alexander Wong. Fast
+yolo: A fast you only look once system for real-time embedded object detection in
+video. arXiv preprint arXiv:1709.05943, 2017.
+- 2015 : Juan C Caicedo and Svetlana Lazebnik. Active object localization with deep rein-
+forcement learning. In Proceedings of the IEEE international conference on computer
+vision, pages 2488–2496, 2015.
+- 2016 : Miriam Bellver, Xavier Gir´o-i Nieto, Ferran Marqu´es, and Jordi Torres. Hierarchical
+object detection with deep reinforcement learning. arXiv preprint arXiv:1611.03718,
+2016.
+- 2014 : Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-
+scale image recognition. arXiv preprint arXiv:1409.1556, 2014.
+- 2016 : Stefan Mathe, Aleksis Pirinen, and Cristian Sminchisescu. Reinforcement learning for
+visual object detection. In Proceedings of the IEEE Conference on Computer Vision
+and Pattern Recognition, pages 2894–2902, 2016
+- 2016 :  Zequn Jie, Xiaodan Liang, Jiashi Feng, Xiaojie Jin, Wen Lu, and Shuicheng Yan.
+Tree-structured reinforcement learning for sequential object localization. In Advances
+in Neural Information Processing Systems, pages 127–135, 2016.
+- 2009 : Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A
+large-scale hierarchical image database. In 2009 IEEE conference on computer vision
+and pattern recognition, pages 248–255. Ieee, 2009.
+- 2015 : Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et al. Imagenet
+large scale visual recognition challenge. International Journal of Computer Vision,
+115(3):211–252, 2015.
+- 2017 : Gabriel Maicas, Gustavo Carneiro, Andrew P Bradley, Jacinto C Nascimento, and
+Ian Reid. Deep reinforcement learning for active breast lesion detection from dce-
+mri. In International conference on medical image computing and computer-assisted
+intervention, pages 665–673. Springer, 2017.
+- 2016 : Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning
+for image recognition. In Proceedings of the IEEE conference on computer vision and
+pattern recognition, pages 770–778, 2016
+- 2018 : Yan Wang, Lei Zhang, Lituan Wang, and Zizhou Wang. Multitask learning for object
+localization with deep reinforcement learning. IEEE Transactions on Cognitive and
+Developmental Systems, 11(4):573–580, 2018.
+- 2018 : Aleksis Pirinen and Cristian Sminchisescu. Deep reinforcement learning of region pro-
+posal networks for object detection. In Proceedings of the IEEE Conference on Com-
+puter Vision and Pattern Recognition, pages 6945–6954, 2018.
+- Morgane Ayle, Jimmy Tekli, Julia El-Zini, Boulos El-Asmar, and Mariette Awad.
+Bar-a reinforcement learning agent for bounding-box automated refinement
+- 2017 : Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alexander A Alemi.
+Inception-v4, inception-resnet and the impact of residual connections on learning. In
+Thirty-first AAAI conference on artificial intelligence, 2017.
+- 2010 : Lihong Li, Wei Chu, John Langford, and Robert E Schapire. A contextual-bandit
+approach to personalized news article recommendation. In Proceedings of the 19th
+international conference on World wide web, pages 661–670, 2010.
+- 2020 :  Burak Uzkent, Christopher Yeh, and Stefano Ermon. Efficient object detection in
+large images using deep reinforcement learning. In The IEEE Winter Conference on
+Applications of Computer Vision, pages 1824–1833, 2020.
+- 2020 : Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C Peeken,
+Stephanie E Combs, and Bjoern H Menze. Deep reinforcement learning for organ
+localization in ct. arXiv preprint arXiv:2005.04974, 2020
+- 2020 : Lijie Liu, Chufan Wu, Jiwen Lu, Lingxi Xie, Jie Zhou, and Qi Tian. Reinforced axial
+refinement network for monocular 3d object detection. In European Conference on
+Computer Vision ECCV, pages 540–556, 2020.
+- 2012 : A. Geiger, P. Lenz, and R. Urtasun. Are we ready for autonomous driving? the kitti
+vision benchmark suite. In 2012 IEEE Conference on Computer Vision and Pattern
+Recognition, pages 3354–3361, 2012.
 
 ## Image Registration
-- 359
-- 252
-- 317
-- 256
-- 79
-- 395
-- 238
-- 37
-- 221
-- 244
-- 184
-- 349
-- 221
-- 139
-- 262
+- 2000 : Philippe Th´evenaz and Michael Unser. Optimization of mutual information for mul-
+tiresolution image registration. IEEE transactions on image processing, 9(12):2083–
+2099, 2000.
+- 1999 : George K Matsopoulos, Nicolaos A Mouravliansky, Konstantinos K Delibasis, and
+Konstantina S Nikita. Automatic retinal image registration scheme using global opti-
+mization techniques. IEEE Transactions on Information Technology in Biomedicine,
+3(1):47–60, 1999.
+- 2000 : J-M Rouet, J-J Jacq, and Christian Roux. Genetic algorithms for a robust 3-d mr-ct
+registration. IEEE transactions on information technology in biomedicine, 4(2):126–
+136, 2000
+- 2016 : Shun Miao, Z Jane Wang, and Rui Liao. A cnn regression approach for real-time 2d/3d
+registration. IEEE transactions on medical imaging, 35(5):1352–1363, 2016.
+- 2015 : Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, Philip Hausser, Caner Hazirbas,
+Vladimir Golkov, Patrick Van Der Smagt, Daniel Cremers, and Thomas Brox. Flownet:
+Learning optical flow with convolutional networks. In Proceedings of the IEEE inter-
+national conference on computer vision, pages 2758–2766, 2015
+- 2015 : Paul Wohlhart and Vincent Lepetit. Learning descriptors for object recognition and
+3d pose estimation. In Proceedings of the IEEE conference on computer vision and
+pattern recognition, pages 3109–3118, 2015.
+- 2013 : Tayebeh Lotfi, Lisa Tang, Shawn Andrews, and Ghassan Hamarneh. Improving prob-
+abilistic image registration via reinforcement learning and uncertainty evaluation. In
+International Workshop on Machine Learning in Medical Imaging, pages 187–194.
+Springer, 2013.
+- 1996 : Leo Breiman. Bagging predictors. Machine learning, 24(2):123–140, 1996
+- 2017 : Rui Liao, Shun Miao, Pierre de Tournemire, Sasa Grbic, Ali Kamen, Tommaso Mansi,
+and Dorin Comaniciu. An artificial agent for robust image registration. In Thirty-First
+AAAI Conference on Artificial Intelligence, 2017
+- 2017 : Kai Ma, Jiangping Wang, Vivek Singh, Birgi Tamersoy, Yao-Jen Chang, Andreas
+Wimmer, and Terrence Chen. Multimodal image registration with deep context re-
+inforcement learning. In International Conference on Medical Image Computing and
+Computer-Assisted Intervention, pages 240–248. Springer, 2017.
+- 2017 : Julian Krebs, Tommaso Mansi, Herv´e Delingette, Li Zhang, Florin C Ghesu, Shun
+Miao, Andreas K Maier, Nicholas Ayache, Rui Liao, and Ali Kamen. Robust non-
+rigid registration through agent-based action learning. In International Conference
+on Medical Image Computing and Computer-Assisted Intervention, pages 344–352.
+Springer, 2017.
+- 2018 : Shanhui Sun, Jing Hu, Mingqing Yao, Jinrong Hu, Xiaodong Yang, Qi Song, and
+Xi Wu. Robust multimodal image registration using deep recurrent reinforcement
+learning. In Asian Conference on Computer Vision, pages 511–526. Springer, 2018.
+- 2017 : Rui Liao, Shun Miao, Pierre de Tournemire, Sasa Grbic, Ali Kamen, Tommaso Mansi,
+and Dorin Comaniciu. An artificial agent for robust image registration. In Thirty-First
+AAAI Conference on Artificial Intelligence, 2017.
+- 1997 : Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
+tation, 9(8):1735–1780, 1997.
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
 
 ## Video Analysis
 - 2013 : Anestis Papazoglou and Vittorio Ferrari. Fast object segmentation in unconstrained
@@ -356,18 +434,48 @@ tions using rnn encoder-decoder for statistical machine translation. arXiv prepr
 arXiv:1406.1078, 2014
 
 ## Landmark Detection
-- 64
-- 101
-- 105
-- 226
-- 104
-- 427
-- 10
-- 7
-- 262
-- 377
-- 107
-- 161
+- 2010 : Antonio Criminisi, Jamie Shotton, Duncan Robertson, and Ender Konukoglu. Regres-
+sion forests for efficient anatomy detection and localization in ct studies. In Inter-
+national MICCAI Workshop on Medical Computer Vision, pages 106–117. Springer,
+2010.
+- 2014 : Romane Gauriau, R´emi Cuingnet, David Lesage, and Isabelle Bloch. Multi-organ
+localization combining global-to-local regression and confidence maps. In International
+Conference on Medical Image Computing and Computer-Assisted Intervention, pages
+337–344. Springer, 2014.
+- 2017 : Florin-Cristian Ghesu, Bogdan Georgescu, Yefeng Zheng, Sasa Grbic, Andreas Maier,
+Joachim Hornegger, and Dorin Comaniciu. Multi-scale deep reinforcement learning for
+real-time 3d-landmark detection in ct scans. IEEE transactions on pattern analysis
+and machine intelligence, 41(1):176–189, 2017.
+- 2013 : Tony Lindeberg. Scale-space theory in computer vision, volume 256. Springer Science
+& Business Media, 2013.
+- 2016 : Florin C Ghesu, Edward Krubasik, Bogdan Georgescu, Vivek Singh, Yefeng Zheng,
+Joachim Hornegger, and Dorin Comaniciu. Marginal space deep learning: efficient
+architecture for volumetric image parsing. IEEE transactions on medical imaging,
+35(5):1217–1228, 2016.
+- 2015 : Yefeng Zheng, David Liu, Bogdan Georgescu, Hien Nguyen, and Dorin Comaniciu.
+3d deep learning for efficient and robust landmark detection in volumetric data. In
+International Conference on Medical Image Computing and Computer-Assisted Inter-
+vention, pages 565–572. Springer, 2015
+- 2019 : Amir Alansary, Ozan Oktay, Yuanwei Li, Loic Le Folgoc, Benjamin Hou, Ghislain
+Vaillant, Konstantinos Kamnitsas, Athanasios Vlontzos, Ben Glocker, Bernhard Kainz,
+et al. Evaluating reinforcement learning agents for anatomical landmark detection.
+Medical image analysis, 53:156–164, 2019
+- 2019 : Walid Abdullah Al and Il Dong Yun. Partial policy-based reinforcement learning for
+anatomical landmark localization in 3d medical images. IEEE transactions on medical
+imaging, 2019
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
+- 2019 : Athanasios Vlontzos, Amir Alansary, Konstantinos Kamnitsas, Daniel Rueckert, and
+Bernhard Kainz. Multiple landmark detection using multi-agent reinforcement learn-
+ing. In International Conference on Medical Image Computing and Computer-Assisted
+Intervention, pages 262–270. Springer, 2019.
+- 2015 : Justin Girard and M Reza Emami. Concurrent markov decision processes for robot
+team learning. Engineering applications of artificial intelligence, 39:223–234, 2015.
+- 2020 : Arjit Jain, Alexander Powers, and Hans J Johnson. Robust automatic multiple land-
+mark detection. In 2020 IEEE 17th International Symposium on Biomedical Imaging
+(ISBI), pages 1178–1182. IEEE, 2020.
 
 ## Survey
 ### 2021
