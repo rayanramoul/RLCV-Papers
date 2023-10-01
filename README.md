@@ -84,39 +84,100 @@ random structured forests. IEEE Transactions on Intelligent Transportation Syste
 17(12):3434–3445, 2016.
 
 ## Object Tracking
-- 397
-- 146
-- 74
-- 270
-- 178
-- 240
-- 139
-- 262
-- 418
-- 392
-- 139
-- 118
-- 340
-- 308
-- 262
-- 45
-- 224
-- 84
-- 391
-- 53
-- 55
-- 143
-- 177
-- 284
-- 401
-- 279
-- 307
-- 168
- - 139
-- 260
-- 201
-- 169
-- 306
+- 2013 : Yi Wu, Jongwoo Lim, and Ming-Hsuan Yang. Online object tracking: A benchmark.
+In Proceedings of the IEEE conference on computer vision and pattern recognition,
+pages 2411–2418, 2013.
+- 2012 : Weiming Hu, Xi Li, Wenhan Luo, Xiaoqin Zhang, Stephen Maybank, and Zhongfei
+Zhang. Single and multiple object tracking using log-euclidean riemannian subspace
+and block-division appearance model. IEEE transactions on pattern analysis and ma-
+chine intelligence, 34(12):2420–2440, 2012.
+- 1994 : oachim Denzler and Dietrich WR Paulus. Active motion detection and object track-
+ing. In Proceedings of 1st International Conference on Image Processing, volume 3,
+pages 635–639. IEEE, 1994
+- 1994 :  Don Murray and Anup Basu. Motion tracking with an active camera. IEEE transac-
+tions on pattern analysis and machine intelligence, 16(5):449–459, 1994.
+- 2005 : Kye Kyung Kim, Soo Hyun Cho, Hae Jin Kim, and Jae Yeon Lee. Detecting and
+tracking moving object using an active camera. In The 7th International Conference
+on Advanced Communication Technology, 2005, ICACT 2005., volume 2, pages 817–
+820. IEEE, 2005
+- 2017 : Wenhan Luo, Peng Sun, Fangwei Zhong, Wei Liu, Tong Zhang, and Yizhou
+Wang. End-to-end active object tracking via reinforcement learning. arXiv preprint
+arXiv:1705.10561, 2017
+- 1997 :  Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
+tation, 9(8):1735–1780, 1997
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
+- 2017 : Da Zhang, Hamid Maei, Xin Wang, and Yuan-Fang Wang. Deep reinforcement learning
+for visual object tracking in videos. arXiv preprint arXiv:1701.08936, 2017.
+- 1992 : Ronald J Williams. Simple statistical gradient-following algorithms for connectionist
+reinforcement learning. Machine learning, 8(3-4):229–256, 1992
+- 1997 : Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
+tation, 9(8):1735–1780, 1997.
+- 2018 : Minghao Guo, Jiwen Lu, and Jie Zhou. Dual-agent deep reinforcement learning for
+deformable face tracking. In Proceedings of the European Conference on Computer
+Vision (ECCV), pages 768–783, 2018.
+- 2014 :  Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-
+scale image recognition. arXiv preprint arXiv:1409.1556, 2014.
+- 2018 : Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, and Jie Zhou. Deep reinforcement
+learning with iterative shift for visual tracking. In Proceedings of the European Con-
+ference on Computer Vision (ECCV), pages 684–700, 2018.
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
+- 2018 : Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, and Huchuan Lu. Real-time’actor-
+critic’tracking. In Proceedings of the European Conference on Computer Vision
+(ECCV), pages 318–334, 2018.
+- 2015 : Timothy P Lillicrap, Jonathan J Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez,
+Yuval Tassa, David Silver, and Daan Wierstra. Continuous control with deep rein-
+forcement learning. arXiv preprint arXiv:1509.02971, 2015.
+- 2019 : Matteo Dunnhofer, Niki Martinel, Gian Luca Foresti, and Christian Micheloni. Visual
+tracking by means of deep reinforcement learning and an expert demonstrator. In
+Proceedings of the IEEE International Conference on Computer Vision Workshops,
+pages 0–0, 2019
+- 1973 : Wayne A Wickelgren. The long and the short of memory. Psychological Bulletin,
+80(6):425, 1973.
+- 2015 : Wongun Choi. Near-online multi-target tracking with aggregated local flow descriptor.
+In Proceedings of the IEEE international conference on computer vision, pages 3029–
+3037, 2015.
+- 2017 : Qi Chu, Wanli Ouyang, Hongsheng Li, Xiaogang Wang, Bin Liu, and Nenghai Yu. On-
+line multi-object tracking using cnn-based single object tracker with spatial-temporal
+attention mechanism. In Proceedings of the IEEE International Conference on Com-
+puter Vision, pages 4836–4845, 2017.
+- 2016 : Ju Hong Yoon, Chang-Ryeol Lee, Ming-Hsuan Yang, and Kuk-Jin Yoon. Online multi-
+object tracking via structural constraint event aggregation. In Proceedings of the IEEE
+Conference on computer vision and pattern recognition, pages 1392–1400, 2016.
+- 2014 : Du Yong Kim and Moongu Jeon. Data fusion of radar and image measurements for
+multi-object tracking via kalman filtering. Information Sciences, 278:641–652, 2014.
+- 2004 : Kenji Okuma, Ali Taleghani, Nando De Freitas, James J Little, and David G Lowe. A
+boosted particle filter: Multitarget detection and tracking. In European conference on
+computer vision, pages 28–39. Springer, 2004.
+- 2015 : Yu Xiang, Alexandre Alahi, and Silvio Savarese. Learning to track: Online multi-object
+tracking by decision making. In Proceedings of the IEEE international conference on
+computer vision, pages 4705–4713, 2015.
+- 2000 : Andrew Y Ng, Stuart J Russell, et al. Algorithms for inverse reinforcement learning.
+In Icml, volume 1, page 2, 2000
+- 2018 : Liangliang Ren, Jiwen Lu, Zifeng Wang, Qi Tian, and Jie Zhou. Collaborative deep
+reinforcement learning for multi-object tracking. In Proceedings of the European Con-
+ference on Computer Vision (ECCV), pages 586–602, 2018.
+- 2018 : Ming-xin Jiang, Chao Deng, Zhi-geng Pan, Lan-fang Wang, and Xing Sun. Multiobject
+tracking in videos based on lstm and deep reinforcement learning. Complexity, 2018,
+2018.
+ - 1997 : Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
+tation, 9(8):1735–1780, 1997.
+- 2017 : Anton Milan, S Hamid Rezatofighi, Anthony Dick, Ian Reid, and Konrad Schindler.
+Online multi-target tracking using recurrent neural networks. In Thirty-First AAAI
+Conference on Artificial Intelligence, 2017.
+- 2015 :  Laura Leal-Taix´e, Anton Milan, Ian Reid, Stefan Roth, and Konrad Schindler.
+Motchallenge 2015: Towards a benchmark for multi-target tracking. arXiv preprint
+arXiv:1504.01942, 2015.
+- 2019 : Mingxin Jiang, Tao Hai, Zhigeng Pan, Haiyan Wang, Yinjie Jia, and Chao Deng. Multi-
+agent deep reinforcement learning for multi-object tracker. IEEE Access, 7:32400–
+32407, 2019
+- 2018 : Joseph Redmon and Ali Farhadi. Yolov3: An incremental improvement. arXiv preprint
+arXiv:1804.02767, 2018.
 
 ## Object Detection
 - 109
