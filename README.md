@@ -222,47 +222,138 @@ arXiv:1804.02767, 2018.
 - 262
 
 ## Video Analysis
-- 288
-- 402
-- 48
-- 163
-- 419
-- 41
-- 164
-- 292
-- 323
-- 47
-- 228
-- 195
-- 199
-- 311
-- 326
-- 196
-- 124
-- 166
-- 111
-- 262
-- 329
-- 371
-- 375
-- 159
-- 262
-- 388
-- 387
-- 431
-- 156
-- 373
-- 147
-- 313
-- 139
-- 156
-- 357
-- 429
-- 355
-- 320
-- 72
-- 430
-- 50
+- 2013 : Anestis Papazoglou and Vittorio Ferrari. Fast object segmentation in unconstrained
+video. In Proceedings of the IEEE international conference on computer vision, pages
+1777–1784, 2013.
+- 2016 : Fanyi Xiao and Yong Jae Lee. Track and segment: An iterative unsupervised approach
+for video object proposals. In Proceedings of the IEEE conference on computer vision
+and pattern recognition, pages 933–942, 2016
+- 2017 : Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, and Ming-Hsuan Yang. Segflow:
+Joint learning for video object segmentation and optical flow. In Proceedings of the
+IEEE international conference on computer vision, pages 686–695, 2017
+- 2017 : Suyog Dutt Jain, Bo Xiong, and Kristen Grauman. Fusionseg: Learning to combine
+motion and appearance for fully automatic segmentation of generic objects in videos.
+In 2017 IEEE conference on computer vision and pattern recognition (CVPR), pages
+2117–2126. IEEE, 2017.
+- 2017 : Dingwen Zhang, Le Yang, Deyu Meng, Dong Xu, and Junwei Han. Spftn: A self-paced
+fine-tuning network for segmenting objects in weakly labelled videos. In Proceedings of
+the IEEE Conference on Computer Vision and Pattern Recognition, pages 4429–4437,
+2017.
+- 2017 : Sergi Caelles, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Laura Leal-Taix´e, Daniel Cre-
+mers, and Luc Van Gool. One-shot video object segmentation. In Proceedings of the
+IEEE conference on computer vision and pattern recognition, pages 221–230, 2017.
+- 2017 : Varun Jampani, Raghudeep Gadde, and Peter V Gehler. Video propagation networks.
+In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition,
+pages 451–461, 2017
+- 2017 : Federico Perazzi, Anna Khoreva, Rodrigo Benenson, Bernt Schiele, and Alexander
+Sorkine-Hornung. Learning video object segmentation from static images. In Pro-
+ceedings of the IEEE conference on computer vision and pattern recognition, pages
+2663–2672, 2017.
+- 2016 : Farhang Sahba. Deep reinforcement learning for object segmentation in video se-
+quences. In 2016 International Conference on Computational Science and Computa-
+tional Intelligence (CSCI), pages 857–860. IEEE, 2016
+- 2015 : Yushi Chen, Xing Zhao, and Xiuping Jia. Spectral–spatial classification of hyperspec-
+tral data based on deep belief network. IEEE Journal of Selected Topics in Applied
+Earth Observations and Remote Sensing, 8(6):2381–2392, 2015.
+- 2018 : Daochang Liu and Tingting Jiang. Deep reinforcement learning for surgical gesture
+segmentation and classification. In International conference on medical image comput-
+ing and computer-assisted intervention, pages 247–255. Springer, 2018
+- 2017 : Colin Lea, Michael D Flynn, Rene Vidal, Austin Reiter, and Gregory D Hager. Tem-
+poral convolutional networks for action segmentation and detection. In proceedings of
+the IEEE Conference on Computer Vision and Pattern Recognition, pages 156–165,
+2017.
+- 2016 : Laura Leal-Taix´e, Cristian Canton-Ferrer, and Konrad Schindler. Learning by tracking:
+Siamese cnn for robust target association. In Proceedings of the IEEE Conference on
+Computer Vision and Pattern Recognition Workshops, pages 33–40, 2016
+- 2016 : Alexander Richard and Juergen Gall. Temporal action detection using a statistical
+language model. In Proceedings of the IEEE Conference on Computer Vision and
+Pattern Recognition, pages 3131–3140, 2016.
+- 2015 : John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz.
+Trust region policy optimization. In International conference on machine learning,
+pages 1889–1897, 2015.
+- 2016 :  Colin Lea, Austin Reiter, Ren´e Vidal, and Gregory D Hager. Segmental spatiotempo-
+ral cnns for fine-grained action segmentation. In European Conference on Computer
+Vision, pages 36–52. Springer, 2016.
+- 2018 : Junwei Han, Le Yang, Dingwen Zhang, Xiaojun Chang, and Xiaodan Liang. Reinforce-
+ment cutting-agent learning for video object segmentation. In Proceedings of the IEEE
+Conference on Computer Vision and Pattern Recognition, pages 9080–9089, 2018.
+- 2017 :  Simon J´egou, Michal Drozdzal, David Vazquez, Adriana Romero, and Yoshua Bengio.
+The one hundred layers tiramisu: Fully convolutional densenets for semantic segmenta-
+tion. In Proceedings of the IEEE conference on computer vision and pattern recognition
+workshops, pages 11–19, 2017.
+- 2018 : Vikash Goel, Jameson Weng, and Pascal Poupart. Unsupervised video object segmen-
+tation for deep reinforcement learning. In Advances in Neural Information Processing
+Systems, pages 5683–5694, 2018.
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
+- 2017 : John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347, 2017
+- 2016 :  Hado Van Hasselt, Arthur Guez, and David Silver. Deep reinforcement learning with
+double q-learning. In Thirtieth AAAI conference on artificial intelligence, 2016.
+- 2017 : Sudheendra Vijayanarasimhan, Susanna Ricco, Cordelia Schmid, Rahul Sukthankar,
+and Katerina Fragkiadaki. Sfm-net: Learning of structure and motion from video.
+arXiv preprint arXiv:1704.07804, 2017.
+- 2015 : Max Jaderberg, Karen Simonyan, Andrew Zisserman, et al. Spatial transformer net-
+works. In Advances in neural information processing systems, pages 2017–2025, 2015.
+- 2016 : Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
+Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
+for deep reinforcement learning. In International conference on machine learning, pages
+1928–1937, 2016.
+- 2004 : Zhou Wang, Alan C Bovik, Hamid R Sheikh, and Eero P Simoncelli. Image quality
+assessment: from error visibility to structural similarity. IEEE transactions on image
+processing, 13(4):600–612, 2004.
+- 2020 : Yujiang Wang, Mingzhi Dong, Jie Shen, Yang Wu, Shiyang Cheng, and Maja Pantic.
+Dynamic face video segmentation via reinforcement learning. In Proceedings of the
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 6959–
+6969, 2020.
+- 2017 : Xizhou Zhu, Yuwen Xiong, Jifeng Dai, Lu Yuan, and Yichen Wei. Deep feature flow
+for video recognition. In Proceedings of the IEEE conference on computer vision and
+pattern recognition, pages 2349–2358, 2017.
+- 2017 : Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, and
+Thomas Brox. Flownet 2.0: Evolution of optical flow estimation with deep networks.
+In Proceedings of the IEEE conference on computer vision and pattern recognition,
+pages 2462–2470, 2017.
+- 2020 : Giuseppe Vecchio, Simone Palazzo, Daniela Giordano, Francesco Rundo, and Concetto
+Spampinato. Mask-rl: Multiagent video object segmentation framework through re-
+inforcement learning. IEEE Transactions on Neural Networks and Learning Systems,
+2020.
+- 2017 : Gao Huang, Zhuang Liu, Laurens Van Der Maaten, and Kilian Q Weinberger. Densely
+connected convolutional networks. In Proceedings of the IEEE conference on computer
+vision and pattern recognition, pages 4700–4708, 2017.
+- 2015 : Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-net: Convolutional networks
+for biomedical image segmentation. In International Conference on Medical image
+computing and computer-assisted intervention, pages 234–241. Springer, 2015.
+- 1997 : Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
+tation, 9(8):1735–1780, 1997.
+- 2017 : Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, and
+Thomas Brox. Flownet 2.0: Evolution of optical flow estimation with deep networks.
+In Proceedings of the IEEE conference on computer vision and pattern recognition,
+pages 2462–2470, 2017.
+- 2018 : Yansong Tang, Yi Tian, Jiwen Lu, Peiyang Li, and Jie Zhou. Deep progressive rein-
+forcement learning for skeleton-based action recognition. In Proceedings of the IEEE
+Conference on Computer Vision and Pattern Recognition, pages 5323–5332, 2018.
+- 2018 : Kaiyang Zhou, Yu Qiao, and Tao Xiang. Deep reinforcement learning for unsupervised
+video summarization with diversity-representativeness reward. In Thirty-Second AAAI
+Conference on Artificial Intelligence, 2018.
+- 2015 : Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
+Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. Going deeper
+with convolutions. In Proceedings of the IEEE conference on computer vision and
+pattern recognition, pages 1–9, 2015
+- 2015 : Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et al. Imagenet
+large scale visual recognition challenge. International Journal of Computer Vision,
+115(3):211–252, 2015.
+- 2009 :  Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A
+large-scale hierarchical image database. In 2009 IEEE conference on computer vision
+and pattern recognition, pages 248–255. Ieee, 2009.
+- 2018 : Kaiyang Zhou, Tao Xiang, and Andrea Cavallaro. Video summarisation by classifica-
+tion with deep reinforcement learning. arXiv preprint arXiv:1807.03089, 2018.
+- 2014 : Kyunghyun Cho, Bart Van Merri¨enboer, Caglar Gulcehre, Dzmitry Bahdanau,
+Fethi Bougares, Holger Schwenk, and Yoshua Bengio. Learning phrase representa-
+tions using rnn encoder-decoder for statistical machine translation. arXiv preprint
+arXiv:1406.1078, 2014
 
 ## Landmark Detection
 - 64
