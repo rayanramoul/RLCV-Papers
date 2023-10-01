@@ -17,320 +17,166 @@ A curated list of papers applying Reinforcement Learning to Computer Vision task
 ## Image Instance Segmentation
 1985:
 - Robert M Haralick and Linda G Shapiro. Image segmentation techniques. Computer
-vision, graphics, and image processing, 29(1):100–132, 1985 
+vision, graphics, and image processing, 29(1):100–132 : https://www.sciencedirect.com/science/article/abs/pii/S0734189X85901537
 
 
 1992 :
 - Ronald J Williams. Simple statistical gradient-following algorithms for connectionist
-reinforcement learning. Machine learning, 8(3-4):229–256, 1992
+reinforcement learning. Machine learning, 8(3-4):229–256 : https://link.springer.com/article/10.1007/BF00992696
 
 
 2006 :
-- arhang Sahba, Hamid R Tizhoosh, and Magdy MA Salama. A reinforcement learning
+- Farhang Sahba, Hamid R Tizhoosh, and Magdy MA Salama. A reinforcement learning
 framework for medical image segmentation. In The 2006 IEEE International Joint
-Conference on Neural Network Proceedings, pages 511–517. IEEE, 2006.
+Conference on Neural Network Proceedings, pages 511–517. IEEE : https://ieeexplore.ieee.org/document/1716136
 - Leo Grady. Random walks for image segmentation. IEEE transactions on pattern
-analysis and machine intelligence, 28(11):1768–1783, 2006
+analysis and machine intelligence, 28(11):1768–1783 : https://ieeexplore.ieee.org/document/1704833
 
 2007 :
 - Farhang Sahba, Hamid R Tizhoosh, and Magdy MMA Salama. Application of
 opposition-based reinforcement learning in image segmentation. In 2007 IEEE Sym-
 posium on Computational Intelligence in Image and Signal Processing, pages 246–251.
-IEEE, 2007
-- Derek Hoiem, Alexei A Efros, and Martial Hebert. Recovering surface layout from an
-image. International Journal of Computer Vision, 75(1):151–172, 2007.
-
-2014 :
-- Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierar-
-chies for accurate object detection and semantic segmentation. In Proceedings of the
-IEEE conference on computer vision and pattern recognition, pages 580–587, 2014.
-- Bharath Hariharan, Pablo Arbel´aez, Ross Girshick, and Jitendra Malik. Simultaneous
-detection and segmentation. In European Conference on Computer Vision, pages 297–
-312. Springer, 2014.
-- David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin
-Riedmiller. Deterministic policy gradient algorithms. 2014.
-
+IEEE : https://www.researchgate.net/publication/4250708_Application_of_Opposition-Based_Reinforcement_Learning_in_Image_Segmentation
 
 2015 :
 - Matthew J. Hausknecht and Peter Stone. Deep recurrent q-learning for partially ob-
-servable mdps. CoRR, abs/1507.06527, 2015
-- Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-
-time object detection with region proposal networks. In Advances in neural information
-processing systems, pages 91–99, 2015.
-- Bharath Hariharan, Pablo Arbel´aez, Ross Girshick, and Jitendra Malik. Hypercolumns
-for object segmentation and fine-grained localization. In Proceedings of the IEEE
-conference on computer vision and pattern recognition, pages 447–456, 2015
+servable mdps. CoRR, abs/1507.06527 : https://arxiv.org/abs/1507.06527
 
 
 2016 :
 - Md Reza, Jana Kosecka, et al. Reinforcement learning for semantic segmentation in
-indoor scenes. arXiv preprint arXiv:1606.01178, 2016.
+indoor scenes. arXiv preprint arXiv:1606.01178, : https://arxiv.org/abs/1606.01178
 - Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
 Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
 for deep reinforcement learning. In International conference on machine learning, pages
-1928–1937, 2016.
-- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning
-for image recognition. In Proceedings of the IEEE conference on computer vision and
-pattern recognition, pages 770–778, 2016.
-- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning
-for image recognition. In Proceedings of the IEEE conference on computer vision and
-pattern recognition, pages 770–778, 2016.
-- Y. Shi, L. Cui, Z. Qi, F. Meng, and Z. Chen. Automatic road crack detection using
-random structured forests. IEEE Transactions on Intelligent Transportation Systems,
-17(12):3434–3445, 2016.
-
+1928–1937: http://proceedings.mlr.press/v48/mniha16.pdf
 
 2017 :
-- Sitao Xiang and Hao Li. On the effects of batch and weight normalization in generativeadversarial networks. arXiv preprint arXiv:1704.03971, 2017
 - D. Carrera, F. Manganini, G. Boracchi, and E. Lanzarone. Defect detection in sem im-
 ages of nanofibrous materials. IEEE Transactions on Industrial Informatics, 13(2):551–
-561, 2017.
+561 : https://boracchi.faculty.polimi.it/docs/2017_Anomaly_Detection_SEM.pdf
 
 2018 :
 - Gwangmo Song, Heesoo Myeong, and Kyoung Mu Lee. Seednet: Automatic seed
 generation with deep reinforcement learning for robust interactive segmentation. In
 Proceedings of the IEEE conference on computer vision and pattern recognition, pages
-1760–1768, 2018
-
-2019 : 
-- P. Bergmann, M. Fauser, D. Sattlegger, and C. Steger. Mvtec ad — a comprehensive
-real-world dataset for unsupervised anomaly detection. In 2019 IEEE/CVF Conference
-on Computer Vision and Pattern Recognition (CVPR), pages 9584–9592, 2019
-
+1760–1768 : https://openaccess.thecvf.com/content_cvpr_2018/papers/Song_SeedNet_Automatic_Seed_CVPR_2018_paper.pdf
 
 2020 :
 - Xuan Liao, Wenhao Li, Qisen Xu, Xiangfeng Wang, Bo Jin, Xiaoyun Zhang, Yanfeng
 Wang, and Ya Zhang. Iteratively-refined interactive 3d medical image segmentation
 with multi-agent reinforcement learning. In Proceedings of the IEEE/CVF Conference
-on Computer Vision and Pattern Recognition, pages 9394–9402, 2020.
+on Computer Vision and Pattern Recognition, pages 9394–9402: https://arxiv.org/abs/1911.10334
 - Zhiqiang Tian, Xiangyu Si, Yaoyue Zheng, Zhang Chen, and Xiaojian Li. Multi-
 step medical image segmentation based on reinforcement learning. JOURNAL OF
-AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING, 2020
+AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING : https://www.researchgate.net/publication/340239080_Multi-step_medical_image_segmentation_based_on_reinforcement_learning
 - Wen-Hsuan Chu and Kris M. Kitani. Neural batch sampling with reinforcement learn-
 ing for semi-supervised anomaly detection. In European Conference on Computer
-Vision, pages 751–766, 2020
+Vision, pages 751–766 : https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710749.pdf
 
 
 
 ## Object Tracking
-1973 :
-- Wayne A Wickelgren. The long and the short of memory. Psychological Bulletin,
-80(6):425, 1973.
-
-1992 :
-- Ronald J Williams. Simple statistical gradient-following algorithms for connectionist
-reinforcement learning. Machine learning, 8(3-4):229–256, 1992
-
-1994 :
-- Joachim Denzler and Dietrich WR Paulus. Active motion detection and object track-
-ing. In Proceedings of 1st International Conference on Image Processing, volume 3,
-pages 635–639. IEEE, 1994
-- Don Murray and Anup Basu. Motion tracking with an active camera. IEEE transac-
-tions on pattern analysis and machine intelligence, 16(5):449–459, 1994.
-
-1997 :
-- Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
-tation, 9(8):1735–1780, 1997
-- Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
-tation, 9(8):1735–1780, 1997.
-- Sepp Hochreiter and J¨urgen Schmidhuber. Long short-term memory. Neural compu-
-tation, 9(8):1735–1780, 1997.
-
-2000 :
-- Andrew Y Ng, Stuart J Russell, et al. Algorithms for inverse reinforcement learning.
-In Icml, volume 1, page 2, 2000
-
-2004 :
-- Kenji Okuma, Ali Taleghani, Nando De Freitas, James J Little, and David G Lowe. A
-boosted particle filter: Multitarget detection and tracking. In European conference on
-computer vision, pages 28–39. Springer, 2004.
-
-
 2005 :
 - Kye Kyung Kim, Soo Hyun Cho, Hae Jin Kim, and Jae Yeon Lee. Detecting and
 tracking moving object using an active camera. In The 7th International Conference
 on Advanced Communication Technology, 2005, ICACT 2005., volume 2, pages 817–
-820. IEEE, 2005
-
-2012 :
-- Weiming Hu, Xi Li, Wenhan Luo, Xiaoqin Zhang, Stephen Maybank, and Zhongfei
-Zhang. Single and multiple object tracking using log-euclidean riemannian subspace
-and block-division appearance model. IEEE transactions on pattern analysis and ma-
-chine intelligence, 34(12):2420–2440, 2012.
-
-2013 :
-- Yi Wu, Jongwoo Lim, and Ming-Hsuan Yang. Online object tracking: A benchmark.
-In Proceedings of the IEEE conference on computer vision and pattern recognition,
-pages 2411–2418, 2013.
-
-2014 :
-- Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-
-scale image recognition. arXiv preprint arXiv:1409.1556, 2014.
-- Du Yong Kim and Moongu Jeon. Data fusion of radar and image measurements for
-multi-object tracking via kalman filtering. Information Sciences, 278:641–652, 2014.
+820. IEEE, 2005 : https://www.researchgate.net/publication/4153839_Detecting_and_tracking_moving_object_using_an_active_camera
 
 2015 :
 - Timothy P Lillicrap, Jonathan J Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez,
 Yuval Tassa, David Silver, and Daan Wierstra. Continuous control with deep rein-
-forcement learning. arXiv preprint arXiv:1509.02971, 2015.
-- Wongun Choi. Near-online multi-target tracking with aggregated local flow descriptor.
-In Proceedings of the IEEE international conference on computer vision, pages 3029–
-3037, 2015.
+forcement learning. arXiv preprint arXiv:1509.02971 : https://arxiv.org/abs/1509.02971
 - Yu Xiang, Alexandre Alahi, and Silvio Savarese. Learning to track: Online multi-object
 tracking by decision making. In Proceedings of the IEEE international conference on
-computer vision, pages 4705–4713, 2015.
-- Laura Leal-Taix´e, Anton Milan, Ian Reid, Stefan Roth, and Konrad Schindler.
-Motchallenge 2015: Towards a benchmark for multi-target tracking. arXiv preprint
-arXiv:1504.01942, 2015.
-
-
+computer vision, pages 4705–4713 : https://cvgl.stanford.edu/papers/xiang_iccv15.pdf
 
 2016 :
 - Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
 Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
 for deep reinforcement learning. In International conference on machine learning, pages
-1928–1937, 2016.
-- Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy
-Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods
-for deep reinforcement learning. In International conference on machine learning, pages
-1928–1937, 2016.
-- Ju Hong Yoon, Chang-Ryeol Lee, Ming-Hsuan Yang, and Kuk-Jin Yoon. Online multi-
-object tracking via structural constraint event aggregation. In Proceedings of the IEEE
-Conference on computer vision and pattern recognition, pages 1392–1400, 2016.
+1928–1937: https://proceedings.mlr.press/v48/mniha16.html
 
 2017 :
 - Wenhan Luo, Peng Sun, Fangwei Zhong, Wei Liu, Tong Zhang, and Yizhou
 Wang. End-to-end active object tracking via reinforcement learning. arXiv preprint
-arXiv:1705.10561, 2017
+arXiv:1705.10561 : https://arxiv.org/abs/1705.10561
 - Da Zhang, Hamid Maei, Xin Wang, and Yuan-Fang Wang. Deep reinforcement learning
-for visual object tracking in videos. arXiv preprint arXiv:1701.08936, 2017.
-- Qi Chu, Wanli Ouyang, Hongsheng Li, Xiaogang Wang, Bin Liu, and Nenghai Yu. On-
-line multi-object tracking using cnn-based single object tracker with spatial-temporal
-attention mechanism. In Proceedings of the IEEE International Conference on Com-
-puter Vision, pages 4836–4845, 2017.
-- Anton Milan, S Hamid Rezatofighi, Anthony Dick, Ian Reid, and Konrad Schindler.
-Online multi-target tracking using recurrent neural networks. In Thirty-First AAAI
-Conference on Artificial Intelligence, 2017.
-
+for visual object tracking in videos. arXiv preprint arXiv:1701.08936 : https://arxiv.org/pdf/1701.08936.pdf
 
 2018 :
 - Minghao Guo, Jiwen Lu, and Jie Zhou. Dual-agent deep reinforcement learning for
 deformable face tracking. In Proceedings of the European Conference on Computer
-Vision (ECCV), pages 768–783, 2018.
+Vision (ECCV), pages 768–783 : https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf
 - Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, and Jie Zhou. Deep reinforcement
 learning with iterative shift for visual tracking. In Proceedings of the European Con-
-ference on Computer Vision (ECCV), pages 684–700, 2018.
+ference on Computer Vision (ECCV), pages 684–700 : https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf
 - Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, and Huchuan Lu. Real-time’actor-
 critic’tracking. In Proceedings of the European Conference on Computer Vision
-(ECCV), pages 318–334, 2018.
+(ECCV), pages 318–334 : https://openaccess.thecvf.com/content_ECCV_2018/html/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.html
 - Liangliang Ren, Jiwen Lu, Zifeng Wang, Qi Tian, and Jie Zhou. Collaborative deep
 reinforcement learning for multi-object tracking. In Proceedings of the European Con-
-ference on Computer Vision (ECCV), pages 586–602, 2018.
+ference on Computer Vision (ECCV), pages 586–602 : https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf
 - Ming-xin Jiang, Chao Deng, Zhi-geng Pan, Lan-fang Wang, and Xing Sun. Multiobject
-tracking in videos based on lstm and deep reinforcement learning. Complexity, 2018,
-2018.
-- Joseph Redmon and Ali Farhadi. Yolov3: An incremental improvement. arXiv preprint
-arXiv:1804.02767, 2018.
-
+tracking in videos based on lstm and deep reinforcement learning. Complexity : https://www.hindawi.com/journals/complexity/2018/4695890/
 
  
 2019 :
 - Matteo Dunnhofer, Niki Martinel, Gian Luca Foresti, and Christian Micheloni. Visual
 tracking by means of deep reinforcement learning and an expert demonstrator. In
-Proceedings of the IEEE International Conference on Computer Vision Workshops,
-pages 0–0, 2019
+Proceedings of the IEEE International Conference on Computer Vision Workshops : https://arxiv.org/abs/1909.08487
 - Mingxin Jiang, Tao Hai, Zhigeng Pan, Haiyan Wang, Yinjie Jia, and Chao Deng. Multi-
 agent deep reinforcement learning for multi-object tracker. IEEE Access, 7:32400–
-32407, 2019
+32407 : https://ieeexplore.ieee.org/document/8653482
 
 ## Object Detection
-2009 :
-- Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A
-large-scale hierarchical image database. In 2009 IEEE conference on computer vision
-and pattern recognition, pages 248–255. Ieee, 2009.
-
-2010 :
-- Lihong Li, Wei Chu, John Langford, and Robert E Schapire. A contextual-bandit
-approach to personalized news article recommendation. In Proceedings of the 19th
-international conference on World wide web, pages 661–670, 2010.
-
 2012 :
 - A. Geiger, P. Lenz, and R. Urtasun. Are we ready for autonomous driving? the kitti
 vision benchmark suite. In 2012 IEEE Conference on Computer Vision and Pattern
-Recognition, pages 3354–3361, 2012.
-
-
-2014 :
-- Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierar-
-chies for accurate object detection and semantic segmentation. In Proceedings of the
-IEEE conference on computer vision and pattern recognition, pages 580–587, 2014.
-- Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-
-scale image recognition. arXiv preprint arXiv:1409.1556, 2014.
+Recognition, pages 3354–3361: https://www.cvlibs.net/publications/Geiger2012CVPR.pdf
 
 2015 :
-- Ross Girshick. Fast r-cnn. In Proceedings of the IEEE international conference on
-computer vision, pages 1440–1448, 2015.
-- Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-
-time object detection with region proposal networks. In Advances in neural information
-processing systems, pages 91–99, 2015
 - Juan C Caicedo and Svetlana Lazebnik. Active object localization with deep rein-
 forcement learning. In Proceedings of the IEEE international conference on computer
-vision, pages 2488–2496, 2015.
-- Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
-Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et al. Imagenet
-large scale visual recognition challenge. International Journal of Computer Vision,
-115(3):211–252, 2015.
+vision, pages 2488–2496 : https://arxiv.org/abs/1511.06015
 
 2016 :
 - Miriam Bellver, Xavier Gir´o-i Nieto, Ferran Marqu´es, and Jordi Torres. Hierarchical
 object detection with deep reinforcement learning. arXiv preprint arXiv:1611.03718,
-2016.
+2016 : https://arxiv.org/abs/1611.03718
 - Stefan Mathe, Aleksis Pirinen, and Cristian Sminchisescu. Reinforcement learning for
 visual object detection. In Proceedings of the IEEE Conference on Computer Vision
-and Pattern Recognition, pages 2894–2902, 2016
+and Pattern Recognition, pages 2894–2902 : https://openaccess.thecvf.com/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html
 - Zequn Jie, Xiaodan Liang, Jiashi Feng, Xiaojie Jin, Wen Lu, and Shuicheng Yan.
 Tree-structured reinforcement learning for sequential object localization. In Advances
-in Neural Information Processing Systems, pages 127–135, 2016.
-- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning
-for image recognition. In Proceedings of the IEEE conference on computer vision and
-pattern recognition, pages 770–778, 2016
-
+in Neural Information Processing Systems, pages 127–135 : https://arxiv.org/abs/1703.02710
 
 2017 : 
-- Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Doll´ar. Focal loss
-for dense object detection. In Proceedings of the IEEE international conference on
-computer vision, pages 2980–2988, 2017.
-- Mohammad Javad Shafiee, Brendan Chywl, Francis Li, and Alexander Wong. Fast
-yolo: A fast you only look once system for real-time embedded object detection in
-video. arXiv preprint arXiv:1709.05943, 2017.
 - Gabriel Maicas, Gustavo Carneiro, Andrew P Bradley, Jacinto C Nascimento, and
 Ian Reid. Deep reinforcement learning for active breast lesion detection from dce-
 mri. In International conference on medical image computing and computer-assisted
-intervention, pages 665–673. Springer, 2017.
-- Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alexander A Alemi.
-Inception-v4, inception-resnet and the impact of residual connections on learning. In
-Thirty-first AAAI conference on artificial intelligence, 2017.
+intervention, pages 665–673. Springer : https://cs.adelaide.edu.au/~gabriel/DRL_maicasEtAl.pdf
 
 2018 :
 - Yan Wang, Lei Zhang, Lituan Wang, and Zizhou Wang. Multitask learning for object
 localization with deep reinforcement learning. IEEE Transactions on Cognitive and
-Developmental Systems, 11(4):573–580, 2018.
+Developmental Systems, 11(4):573–580 : https://ieeexplore.ieee.org/document/8570827
 - Aleksis Pirinen and Cristian Sminchisescu. Deep reinforcement learning of region pro-
 posal networks for object detection. In Proceedings of the IEEE Conference on Com-
-puter Vision and Pattern Recognition, pages 6945–6954, 2018.
+puter Vision and Pattern Recognition, pages 6945–6954 : https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf
 - Morgane Ayle, Jimmy Tekli, Julia El-Zini, Boulos El-Asmar, and Mariette Awad.
-Bar-a reinforcement learning agent for bounding-box automated refinement
+Bar-a reinforcement learning agent for bounding-box automated refinement : https://ojs.aaai.org/index.php/AAAI/article/view/5639
 
 2020 :
 - Burak Uzkent, Christopher Yeh, and Stefano Ermon. Efficient object detection in
 large images using deep reinforcement learning. In The IEEE Winter Conference on
-Applications of Computer Vision, pages 1824–1833, 2020.
+Applications of Computer Vision, pages 1824–1833 : https://arxiv.org/abs/1912.03966
 - Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C Peeken,
 Stephanie E Combs, and Bjoern H Menze. Deep reinforcement learning for organ
-localization in ct. arXiv preprint arXiv:2005.04974, 2020
+localization in ct. arXiv preprint arXiv:2005.04974 : 
 - Lijie Liu, Chufan Wu, Jiwen Lu, Lingxi Xie, Jie Zhou, and Qi Tian. Reinforced axial
 refinement network for monocular 3d object detection. In European Conference on
-Computer Vision ECCV, pages 540–556, 2020.
+Computer Vision ECCV, pages 540–556 : https://arxiv.org/abs/2008.13748
 
 ## Image Registration
 
